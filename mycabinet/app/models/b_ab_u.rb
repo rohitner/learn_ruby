@@ -1,0 +1,2 @@
+class BAbU < ApplicationRecord
+end

@@ -1,0 +1,2 @@
+class Babu < ApplicationRecord
+end

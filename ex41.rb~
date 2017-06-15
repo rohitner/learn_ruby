@@ -24,10 +24,9 @@ class Person
 end
 
 class Employee < Person
-  def initialize(name,salary)
-    super(name)
-    @salary = salary
-  end
+  de initialize(name,salary)
+  super(name)
+  @salary = salary
 end
 
 class Fish
